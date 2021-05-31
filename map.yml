@@ -1,0 +1,3 @@
+map_name: rome_total_war
+games:
+- {game_name: Rome Total War, file_name: Rome_Total_War.xml}
